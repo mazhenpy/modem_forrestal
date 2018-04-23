@@ -1,0 +1,6 @@
+.idea
+*.log
+*.log.*
+.module-cache
+*.yaml
+__pycache__
